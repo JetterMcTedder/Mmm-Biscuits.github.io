@@ -8,3 +8,5 @@
 
 [Modern App Dev with Flask and ORDS](https://github.com/Mmm-Biscuits/modernAppDev-with-Flask-and-ORDS)
 
+[Red Bull Racing Data, ORDS and Dashboards](https://github.com/Mmm-Biscuits/redbull-quickstart-with-ords)
+
